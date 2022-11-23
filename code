@@ -1,0 +1,67 @@
+[{
+		"name": "Wobbly Life",
+		"description": "Hello all Wobblies!
+                    Welcome to the v0.8.0 Update!
+                    All the team has been working really hard on this update. We’ve made lots of new missions, damaged a bunch of vehicles (and repaired them again!) and squashed many bugs along the way. We’re really excited for you all to play it!",
+		"img": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/clans//37678930/95a35f8dbce16ed0b8eb632332b5b07f50dafd7c.png"
+	},
+	{
+		"name": "Missions",
+		"description": "There are lots of new missions to complete all over Wobbly Island! There are all sorts of tasks for you to do, lots of them with unique rewards. So get out there and help some Wobbly’s!
+                    You can tell a Wobbly has a Mission for you if they have a Mission Star above their head.",
+		"img": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/clans//37678930/2893b337a6fee0ddcd90860ec454e53bbd9aced5.png"
+	}, {
+		"name": "Detective Missions",
+		"description": "Detective Buck needs your help! All his other detectives are on holiday so put on your thinking cap and head to the police station to help him solve a series of strange cases.
+                    This series of missions work slightly differently to other missions. Once you’ve completed one case you’ll need to wait untill the next day for Detective Buck to have another case for you.
+                    We hope to add more cases for you to solve in the future.",
+		"img": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/clans//37678930/7340e7334092ae35a28797a176481a348a37a11c.png"
+	}, {
+		"name": "To Do List",
+		"description": "To help you keep track of all your missions we’ve added a To Do List to the map screen. Here you can toggle which missions show on the map, and find details about the missions you have and next task you need to complete.
+                    We’ve also added To Do List entries for all the existing missions in the game too!",
+		"img": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/clans//37678930/f7f5003846d84defeba188c378cdfe374e876277.png"
+	}, {
+		"name": "Vehicle Damage",
+		"description": "Vehicles in Wobbly Life now can get damaged! If you keep crashing into things the body work will get bent, the windows will smash, and eventually if you keep crashing it, it will explode!
+                    There’s also a new particle effect for crashes and a few new vehicles for you to crash in!",
+		"img": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/clans//37678930/4e7d07dfcc368841e0b94264f095bd94a07c8da1.png"
+	},{
+		"name": "Vehicle Repair Shop",
+		"description": "You’ve damaged your pizza van and you’ve got a delivery to make? Don’t worry, Joe’s Repairs is here to help! Simply drive your vehicle into the garage and Joe will repair it for free.
+                    You can find Vehicle Repair Shops near to Vehicle Paint Shops.",
+		"img": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/clans//37678930/69ff5c1286f2b040b516e2fb834480425412f95f.png"
+	},
+	{
+		"name": "Updated Handbrake",
+		"description": "We’ve reworked the handbrake functionality so now you can pull off cool skids! But don’t use it too much or you might spin out. We’ve also updated the skidding graphical effect.",
+		"img": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/clans//37678930/2691dc68572ae45123e13e2b87785f7be1725484.png"
+	}, {
+		"name": "Updated Models",
+		"description": "We’ve updated loads of models in this update. Almost all areas of the game have had some changes but especially make sure you check out the revamped arcade, mall and shops!",
+		"img": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/clans//37678930/8e4f97e2fb20ad0c88cd010ceacd5607b19d26ec.png"
+	}, {
+		"name": "Contest Winners",
+		"description": "Congratulations to the winners of the recent Costume Design Contest!. Their amazing designs are now available in this update.
+                    To keep up to date with any future contests make sure to check out our discord.",
+		"img": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/clans//37678930/c8f75105ddd8580b93734d307740a151898e4ea6.png"
+	},
+	{
+		"name": "Ultrawide Screen Support",
+		"description": "You asked, we listened! Wobbly life now supports ultrawide resolutions so you can now go as wide as you want!",
+		"img": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/clans//37678930/0adfcfba50858f7544050d8ba80bcc38075f4d86.png"
+	}, {
+		"name": "Job Complete / Fail prompt",
+		"description": "We’ve added on screen prompts when you fail or complete a mission.",
+		"img": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/clans//37678930/4d438e6be4663591e5d9e0c8019192e23cd52125.png"
+	}, {
+		"name": "Vehicle Paint Shop Adjustments",
+		"description": "The Vehicle Paint Shop has had a visual rework.",
+		"img": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/clans//37678930/63167a15e0cdcb1cc4f456f528e7d4ced630dabb.png"
+	}, {
+		"name": "Merch",
+		"description": "Don’t forget we’ve got merch!
+                    We have more stuff coming to the store very soon so keep an eye out for that.",
+		"img": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/clans//37678930/77ba187d19e80f6e4f18197a549b418ae9a111a1.png"
+	}
+]
